@@ -1,0 +1,15 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "git@github.com:mshradtya/weather-api.git",
+  "author": "Aditya Mishra <mshradtya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
